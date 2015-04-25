@@ -5,6 +5,15 @@ Create an autocomplete feature in Sublime Text for Bootstrap and Foundations. *A
 
 **We are accepting suggestions for a better name for this repostiory.**
 
+##Classes##
+Classes in HTML are different from what you may have seen in other programming languages. In HTML , classes are used to group different tags together, so that you can do certain specific task with them.
+	For example:
+	If we have two div tags(division tags) and we want to apply the same style to them both, isn't it a better idea to define a single rule(in CSS we apply rules) for them, instead of applying same sets of rules on each and every item.
+
+	There isn't a predefined list, we have to see their documentation and create our own list.
+	Bootstrap: www.getBootstrap.com
+	Foundation : www.foundation.zurb.com
+
 ### Specifics ###
 An info-hover should appear above the selected class name displaying various details about the function when the *bound-key* is hit OR, add "our info" to the standard autocomplete-hover-box when typing a keyword that our plugin recognises.
 We shall start with CSS, so the decsription will be available for `classes`
