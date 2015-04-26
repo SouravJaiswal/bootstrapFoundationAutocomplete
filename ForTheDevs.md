@@ -24,7 +24,7 @@ We shall start with CSS, so the decsription will be available for `classes`
   + If we take the keybind approach,
     * How exactly does the user select the text, ie, when the *bound-key* is hit, do we look for a (partial?/complete?) selction OR the word preceeding the cursor?
 
-## TODO ##
+### TODO ###
 + Read through both the [JavaScriptFunctionDefinition](https://github.com/asdf23/JavaScriptFunctionDefinition) and [AndyPython](https://github.com/agibsonsw/AndyPython)
 + [Extending SublimeText's AutoComplete](http://www.eladyarkoni.com/2012/09/sublime-text-auto-complete-plugin.html) tutorial (*bad quality*) shows how to define (and hence over-ride) the `on_query_completions()` method. 
 + A popup can be created in this way, [API link](http://www.sublimetext.com/docs/3/api_reference.html#sublime.View)
